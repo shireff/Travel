@@ -1,0 +1,14 @@
+@media (max-width: 992px) {
+    .galary .three {
+        top: -38px;
+    }
+
+}
+
+@media (max-width: 992px) {
+    header .links-box {
+        display: none;
+        opacity: 0;
+        visibility: hidden;
+    }
+}

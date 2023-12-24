@@ -1,0 +1,18 @@
+/* Fonts */
+@import url(./base/fonts.css);
+
+/* Vendors */
+@import url(./Vendors/all.css);
+@import url(./Vendors/animate.css);
+@import url(./Vendors/bootstrap.min.css);
+@import url(https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/flat-ui/2.3.0/css/flat-ui.min.css);
+
+
+@import url(./base/base.css);
+@import url(./Responsive/responsive.css);
+@import url(./layout/header.css);
+@import url(./layout/footer.css);
+/* Pages */
+@import url(./pages/home.css);
+@import url(./pages/toursList.css);

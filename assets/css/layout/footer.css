@@ -1,0 +1,87 @@
+.footer ul {
+    line-height: 1.80em;
+}
+
+.footer ul li {
+    padding: 10px 0;
+    color: #6c7171;
+    font-weight: normal;
+    font-size: 16px;
+    transition: all 300ms linear;
+}
+
+.footer ul li h4 {
+    font-size: 24px;
+    font-family: Gilroy-Bold;
+    margin-bottom: 30px;
+}
+
+.footer ul .top {
+    width: 58%;
+    margin-bottom: 30px;
+}
+
+.footer ul .to {
+    margin-bottom: 30px;
+}
+
+.footer ul li a span {
+    padding: 0 10px 0 0;
+}
+
+.footer ul .links span {
+    padding: 0 10px 0 0;
+    font-size: 30px;
+}
+
+.footer ul .links span:hover a {
+    color: #ff5522;
+}
+
+.footer ul .links .fb {
+    color: #1877f2;
+}
+
+.footer ul .links .tw {
+    color: #3aacf3;
+}
+
+.footer ul .links .in {
+    color: #3291c2;
+}
+
+.footer ul .links .yo {
+    color: #ff0000;
+}
+
+.footer ul li h6 {
+    font-size: 16px;
+    line-height: 22px;
+    margin: 0 0 10px 0;
+    font-family: Gilroy-Bold;
+}
+
+.footer .footer-img img {
+    border-radius: 5px;
+}
+
+.footer .price span {
+    color: #ff5522;
+    font-weight: bold;
+}
+
+.footer .copyrights {
+    padding: 90px 0 10px 0;
+    font-size: 16px;
+    font-family: Gilroy-Bold;
+}
+
+.footer .copyrights p {
+    font-size: 17px;
+}
+
+.footer .copyrights p span {
+    font-size: 18px;
+    color: #ff5522;
+    font-weight: bold;
+}
